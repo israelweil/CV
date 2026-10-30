@@ -16,7 +16,7 @@ El archivo `index.html` contiene las secciones principales en este orden:
 4. **Formación académica:** estudios y cursos presentados como una línea de tiempo.
 5. **Experiencia:** trabajos, responsabilidades y actividades realizadas.
 6. **Logros y habilidades:** reconocimientos, resultados académicos, lenguajes y tecnologías.
-7. **Portafolio:** tarjetas con proyectos y trabajos realizados.
+7. **Portafolio:** tarjetas con proyectos, capturas e imágenes asociadas.
 8. **Contacto:** correo, ubicación y disponibilidad.
 
 La página usa elementos HTML con significado claro, como `header`, `nav`, `main`, `section`, `article`, `figure` y `footer`. Los títulos (`h1`, `h2` y `h3`) organizan el contenido, y las listas (`ul` y `li`) agrupan habilidades y datos relacionados.
@@ -55,6 +55,8 @@ Los estilos incluyen reglas `@media` para reorganizar el contenido cuando la pan
 - `styles.scss`: estilos sencillos del sitio y reglas de adaptación a móvil.
 - `styles.css`: estilos que utiliza directamente el navegador.
 - `retrato.jpeg`: fotografía del perfil.
+- `siglim.jpg`, `controlEscolar-publico.jpg`, `generadorDiplomas.png` y `Asteroides.png`: imágenes visibles en sus tarjetas del portafolio.
+- `controlEscolar.JPEG`: captura original conservada. Para la página se usa una copia difuminada, porque la captura original muestra nombres y datos académicos.
 - `script.js`: se eliminó para que el sitio no dependa de JavaScript.
 
 ## 7. Rama de trabajo
